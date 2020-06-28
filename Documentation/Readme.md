@@ -3,7 +3,7 @@
 
 
 
-### Scenario at laundry of the building in the dorm
+### Scenario at laundry of the building in the dormitory 
 
 The device was kept at near a small area near the laundry of the student dormitory. In accordance to the previous measurement, probes scanning lasted for seven hours. I can see the list of manufacturers names and also the amount of probes
 ![Distribution of probes request over time](final.time.png)
